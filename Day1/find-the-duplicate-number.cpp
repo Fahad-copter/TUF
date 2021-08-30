@@ -19,4 +19,4 @@ class Solution{
                 }
                 return slow;//u can return fast also
             }
-}
+};
